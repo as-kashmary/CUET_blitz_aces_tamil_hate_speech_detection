@@ -1,7 +1,7 @@
-## Caste and Migration Hate Speech Detection
+# Caste and Migration Hate Speech Detection
 This repository contains code for the LT-EDI@LDK 2025 Shared Task on Caste and Migration Hate Speech Detection in Tamil language social media content.
 
-# Task Overview
+## Task Overview
 The task focuses on developing automatic classification models that can identify:
 
 i) Caste/Migration-related Hate Speech
